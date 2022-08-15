@@ -3,15 +3,11 @@
   display: block;
 }
 
-.radio-label {
-  display: inline;
-}
-
 .form-field {
   margin-bottom: 20px;
 }
 
-.form-field .input-label:not(:last-child) {
+.input-label:not(:last-child) {
   margin-bottom: 10px;
 }
 
